@@ -7,7 +7,6 @@
 ## Overview
 
 This project analyzes the online sales data of Sammy’s Sports to uncover key trends and business opportunities.
-
 I cleaned and joined multiple tables using SQL, and built an interactive Tableau dashboard that tracks sales by product, month, and U.S. state.
 
 ## Data Preparation (SQL)
