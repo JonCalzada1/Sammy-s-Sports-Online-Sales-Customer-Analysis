@@ -21,7 +21,7 @@ See full SQL script: [`SQL/data_preparation.sql`](SQL/data_preparation.sql)
 
 ## Dashboard Highlights
 
-🔗 **[View Dashboard on Tableau Public](https://public.tableau.com/views/Sports_customer_analysis/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
+**[View Dashboard on Tableau Public](https://public.tableau.com/views/Sports_customer_analysis/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
 
 
 **Insights:**
