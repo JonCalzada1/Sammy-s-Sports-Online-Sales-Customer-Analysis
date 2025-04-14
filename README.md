@@ -10,7 +10,7 @@ This project analyzes the online sales data of Sammy’s Sports to uncover key t
 
 I cleaned and joined multiple tables using SQL, and built an interactive Tableau dashboard that tracks sales by product, month, and U.S. state.
 
-## 🧹 Data Preparation (SQL)
+## Data Preparation (SQL)
 
 Key steps:
 - Removed duplicates, standardized formats, and handled NULL values
@@ -29,7 +29,7 @@ See full SQL script: [`SQL/data_preparation.sql`](SQL/data_preparation.sql)
 - Best-selling products: Basketball, Football, Hockey  
 - Top states: California, Texas, Florida
 
-## 📌 Skills Demonstrated
+## Skills Demonstrated
 - SQL data cleaning, joining, and aggregations
 - Building interactive Tableau dashboards
 - Extracting actionable business insights
